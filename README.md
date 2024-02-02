@@ -2,6 +2,7 @@
 
 ### Embedded development
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C programming language"  height="50">
+<img align="left" src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" alt="C++ programming language"  height="50">
 <img align="left" src="https://blog.embeddedexpert.io/wp-content/uploads/2022/10/stm32-cube-ide.png" alt="STM32 Cube IDE" height="50">
 <img align="left" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" alt="Eclipse IDE" height="50">
 
